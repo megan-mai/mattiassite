@@ -166,9 +166,7 @@ a:hover {
 }
 
 .top-bar{
-  display: flex;
-  justify-content: space-between;
-  padding: 1em;
+
   border-bottom: solid;
   border-color: grey;
   border-width: .7px;
@@ -363,6 +361,12 @@ img{
     display: block;
   }
 
+  .top-bar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+  }
+
   .info{
     width: 100% !important;
     margin-bottom: 1em;
@@ -375,11 +379,11 @@ img{
   .text{
     width: 100%;
   }
-
+/* 
     .project{
       display: block;
       text-align: left;
-    }
+    } */
 
     .grid-items{
       text-align: left;
