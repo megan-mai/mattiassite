@@ -352,8 +352,26 @@ img{
   display: block;
 }
 
-/*
+
 @media (max-width: 800px) {
+
+
+  .caption{
+    display: block;
+  }
+
+  .info{
+    width: 100% !important;
+    margin-bottom: 1em;
+  }
+
+  .inforow{
+    width: 100%;
+  }
+
+  .text{
+    width: 100%;
+  }
 
     .top-bar{
       display: none !important;
@@ -419,4 +437,4 @@ img{
   }
 
 
-} */
+}
