@@ -53,6 +53,13 @@ ul {
   padding-inline-start: 0px;
 }
 
+img{
+  border-style: solid;
+  border-color: grey;
+  border-width: .7px;
+}
+
+
 .thumbnail-container {
   width: auto;
   text-align: center;
